@@ -1,9 +1,9 @@
 # 📊 Analyze the impact of COVID-19 across various regions and demographics.
 
-## Overview
+## 📝 Overview
 This project analyzes global COVID-19 data to understand the impact of the pandemic across different countries and demographics. Using Python, Pandas, Matplotlib, and Seaborn, the project performs data cleaning, descriptive analysis, and visualization to highlight key trends and insights.
 
-## Features
+## ✨ Features
 - Cleaned and preprocessed COVID-19 datasets to ensure data quality.
 - Descriptive statistics to summarize confirmed cases, deaths, recoveries, and active cases.
 - Visualizations including:
@@ -15,11 +15,51 @@ This project analyzes global COVID-19 data to understand the impact of the pande
 
 - Exploratory and comparative analysis to identify patterns and correlations.
 
-## Data
+## 📈 Data
 Data is collected globally and organized by country/region
 The dataset includes:
 - Confirmed cases 
 - Deaths 
 - Recoveries 
 - Active cases (calculated as Confirmed - Deaths - Recovered)
+
+## 🔎 Example Analyses 
+- Average confirmed cases per country 
+- Death rate percentage globally 
+- Countries with the highest average deaths and active cases 
+- Correlation analysis between confirmed, deaths, and recovered cases 
+- Trends of confirmed cases in the most affected countries
+
+## 🛠️ Technologies Used 
+- Python 
+- Pandas 
+- Matplotlib 
+- Seaborn 
+- Jupyter Notebook
+
+## ▶️ How to Run
+
+1. Clone this repository:
+
+`git clone https://github.com/Nadeen218/COVID-19-Data-Analysis.git `
+
+2. Navigate to the project directory:
+
+`cd COVID-19-Data-Analysis`
+
+3. Open the Jupyter Notebook:
+
+`jupyter notebook`
+
+4. Run the analysis cells in the notebook.
+
+## 💡Insights
+- Visualizations highlight the countries most affected by COVID-19
+
+- Comparative analysis shows patterns in confirmed, death, and recovery rates
+
+- Correlation analysis provides insight into the relationship between confirmed cases, deaths, and recoveries globally 
+
+## ✍ Author
+By: Nadeen Abu Hilweh
 
