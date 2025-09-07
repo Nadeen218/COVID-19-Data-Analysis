@@ -38,7 +38,7 @@ The dataset includes:
 - Jupyter Notebook
 
 ## ▶️ How to Run
-
+### Option 1: Using Jupyter Notebook
 1. Clone this repository:
 
 `git clone https://github.com/Nadeen218/COVID-19-Data-Analysis.git `
@@ -53,6 +53,15 @@ The dataset includes:
 
 4. Run the analysis cells in the notebook.
 
+### Option 2: Using Anaconda Navigator
+1. Open Anaconda Navigator
+
+2. Navigate to your project folder
+
+3. Launch Jupyter Notebook from Navigator
+
+4. Open the notebook and run the cells
+
 ## 💡Insights
 - Visualizations highlight the countries most affected by COVID-19
 
@@ -61,5 +70,5 @@ The dataset includes:
 - Correlation analysis provides insight into the relationship between confirmed cases, deaths, and recoveries globally 
 
 ## ✍ Author
-By: Nadeen Abu Hilweh
+By: Nadeen Abu Hilweh – [GitHub Profile](https://github.com/Nadeen218)
 
