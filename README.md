@@ -69,6 +69,6 @@ The dataset includes:
 
 - Correlation analysis provides insight into the relationship between confirmed cases, deaths, and recoveries globally 
 
-## ✍ Author
-By: Nadeen Abu Hilweh – [GitHub Profile](https://github.com/Nadeen218)
+## 🗪 Contact
+ Nadeen Abu Hilweh – [GitHub Profile](https://github.com/Nadeen218)
 
