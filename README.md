@@ -15,8 +15,8 @@ This project analyzes global COVID-19 data to understand the impact of the pande
 
 - Exploratory and comparative analysis to identify patterns and correlations.
 
-## 📈 Data
-Data is collected globally and organized by country/region
+## 📈 Dataset
+Data is collected and organized by country/region
 The dataset includes:
 - Confirmed cases 
 - Deaths 
